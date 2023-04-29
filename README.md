@@ -18,5 +18,4 @@
 >> - [yosakoi-video.com](https://yosakoi-video.com)
 >> - [taoka-toshiaki.com/M-L/tf1](https://taoka-toshiaki.com/M-L/tf1)
 >> - [play.google.com/store/apps/details?id=com.yosakoi_video.yosakoi_app](https://play.google.com/store/apps/details?id=com.yosakoi_video.yosakoi_app)
->> - [tosaden.net](https://tosaden.net)
 >> - [cart.ec-plus.jp](https://cart.ec-plus.jp/2/cart)
