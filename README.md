@@ -1,15 +1,3 @@
-> ### work
->> - cnt.ja-kochi.or.jp
->> - office-nishimura.jp
->> - winners-system.jp
->> - kaigo-ichiba.com
->> - kobe-sanuki.co.jp
->> - e-zakkaya.com
->> - hasamiya.jp
->> - ecoasu.co.jp
->> - syohbido.co.jp
->> - fromheart.net
->> - cij-hokuden.com
 > ### Connect with me:
 >> - [gist.github.com/taoka-toshiaki](https://gist.github.com/taoka-toshiaki)
 >> - [@taoka_toshiaki](https://twitter.com/taoka_toshiaki)
